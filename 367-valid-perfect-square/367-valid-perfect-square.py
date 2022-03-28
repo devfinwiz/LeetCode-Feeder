@@ -4,7 +4,7 @@ class Solution:
         right=num
 
         while(left<=right):
-            mid=(left+right)>>1
+            mid=(left+right)//2
             
             if(mid*mid==num):
                 return True
