@@ -1,6 +1,6 @@
-1.Store indexes of 2 bars as left and right resp. Initialise maxarea=0
+1. Store indexes of 2 bars as left and right resp. Initialise maxarea=0
 
-2.Calculate value of bars (left,right).
+2. Calculate value of bars (left,right).
 
 3. Find out the bar with minimum height from the two(because that will be used to find the maximum area that can be oppcupied for water storage)
 
