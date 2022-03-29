@@ -8,11 +8,7 @@ class Solution:
             lbar=height[left]
             rbar=height[right]
             
-            minbar=min(lbar,rbar)
-            bargap=left-right
-            area=abs(minbar*bargap)
-            
-            maxi=max(maxi,area)
+            maxi=max(maxi,(min(lbar,rbar)*(right-left)))
             
             if(lbar<rbar):
                 left+=1
