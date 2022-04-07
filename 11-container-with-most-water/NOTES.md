@@ -10,4 +10,4 @@
 
 6. Use max function to repeatedly store the maximum area by comparing area initialised at the start with current area in the loop iteration. 
 
-7. Return maximum area
+7. Return maximum area.
