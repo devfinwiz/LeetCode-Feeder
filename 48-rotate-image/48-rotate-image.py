@@ -5,9 +5,8 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         matrix.reverse()
-        n = len(matrix)
-        for i in range(0,n):
-            for j in range(i + 1, n):
+        for i in range(0,len(matrix)):
+            for j in range(i + 1, len(matrix)):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
         
         
