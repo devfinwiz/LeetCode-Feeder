@@ -2,6 +2,7 @@ from collections import Counter
 class Solution:
     def divideArray(self, nums: List[int]) -> bool:
         hold=Counter(nums)
+
         hold=dict(hold)
         
         for i,j in hold.items():
