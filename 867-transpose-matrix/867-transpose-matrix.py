@@ -1,5 +1,4 @@
 import numpy as np
 class Solution:
     def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
-        hold=np.array(matrix).T.tolist()
-        return hold
+        return np.transpose(matrix)
