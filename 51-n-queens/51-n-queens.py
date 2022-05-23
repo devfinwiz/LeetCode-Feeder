@@ -25,7 +25,7 @@ class Solution:
             curr = []
             for i in range(n):
                 curr.append("".join(board[i]))
-            res.append(curr[:])
+            res.append(curr)
             
         def nqueens(board,row):
             if(row>=n):
