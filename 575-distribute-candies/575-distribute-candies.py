@@ -1,10 +1,7 @@
 class Solution:
     def distributeCandies(self, candyType: List[int]) -> int:
-        count=len(candyType)//2
         
-        types=list(set(candyType))
-        
-        if(len(types)<count):
-            return len(types)
+        if(len(set(candyType))<len(candyType)//2):
+            return len(set(candyType))
         else:
-            return count
+            return len(candyType)//2
