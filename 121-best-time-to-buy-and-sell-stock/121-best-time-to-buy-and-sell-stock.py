@@ -5,7 +5,6 @@ class Solution:
             
         mini=prices[0]
         maxi=0
-        prices=prices[1:]
         
         for i in prices:
             profit=i-mini
