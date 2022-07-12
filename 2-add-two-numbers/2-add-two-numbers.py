@@ -36,12 +36,11 @@ class Solution:
         res=n1string+n2string
         
         res=str(res)
-        res=res[::-1]
         count=0
         
         l3 = ListNode()
         cur = ListNode()
-        list1 = [int(x) for x in res[::-1]]
+        list1 = [int(x) for x in res]
         first=0
         
         while(list1):
