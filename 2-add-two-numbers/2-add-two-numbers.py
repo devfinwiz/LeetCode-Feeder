@@ -42,7 +42,6 @@ class Solution:
         resInt=[int(x) for x in res]
         temp=None
         
-        
         for val in resInt:
             node=ListNode(val)
             node.next=temp
