@@ -3,6 +3,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+   
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
     
@@ -38,24 +39,16 @@ class Solution:
         res=str(res)
         count=0
         
-        l3 = ListNode()
-        cur = ListNode()
-        list1 = [int(x) for x in res]
-        first=0
+        resInt=[int(x) for x in res]
+        temp=None
         
-        while(list1):
-            temp = ListNode()
-            if(first == 0):
-                cur.val = list1.pop()
-                first = 1
-                l3 = cur
-            else:
-                temp.val = list1.pop()
-                cur.next = temp
-                cur = temp
-                
-        return l3
         
+        for val in resInt:
+            node=ListNode(val)
+            node.next=temp
+            temp=node
+            
+        return temp
         
         
         
