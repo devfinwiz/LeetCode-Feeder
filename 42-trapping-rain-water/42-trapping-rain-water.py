@@ -10,7 +10,7 @@ class Solution:
         lmax=height[left]   #4
         rmax=height[right]  #5
         
-        while(left<=right):
+        while(left<right):
             lmax,rmax=max(height[left],lmax),max(height[right],rmax)
             #4   #5
             if(lmax<=rmax):
