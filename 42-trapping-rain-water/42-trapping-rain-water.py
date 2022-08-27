@@ -4,15 +4,16 @@ class Solution:
             return 0
         
         volume=0
-        left=0                  #5
-        right=len(height)-1     #5
+        left=0
+        right=len(height)-1
         
-        lmax=height[left]   #4
-        rmax=height[right]  #5
+        lmax=height[left]
+        rmax=height[right]
         
         while(left<right):
-            lmax,rmax=max(height[left],lmax),max(height[right],rmax)
-            #4   #5
+            lmax=max(height[left],lmax)
+            rmax=max(height[right],rmax)
+            
             if(lmax<=rmax):
                 volume+=(lmax-height[left])*1
                 left+=1
