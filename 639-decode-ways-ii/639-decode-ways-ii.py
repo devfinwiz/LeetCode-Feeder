@@ -2,6 +2,7 @@ class Solution:
     def numDecodings(self, s: str) -> int:
         answer=1
         prev=1
+        
         one,two=False,False
         
         for i in s:
@@ -23,5 +24,4 @@ class Solution:
                 
             prev=answer
             answer=new%(10**9+7)
-            
         return answer
