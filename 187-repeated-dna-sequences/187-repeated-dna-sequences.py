@@ -10,5 +10,5 @@ class Solution:
             if(curr in seen):
                 res.add(curr)
             seen.add(curr)
-        print(count)
+            
         return list(res)
