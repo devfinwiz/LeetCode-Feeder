@@ -6,10 +6,10 @@ class Solution:
                 return count+2
             if(n%2==0):
                 n//=2
-            elif(n%4==1):
-                n-=1
-            else:
+            elif((n+1)%4==0):
                 n+=1
+            else:
+                n-=1
             count+=1
         
         return count
