@@ -3,17 +3,17 @@ public:
     int lengthOfLongestSubstring(std::string s) {
         int n = s.length();
         int maxLength = 0;
-        int left = 0, right = 0;
+        int pre = 0, post = 0;
         std::unordered_set<char> charSet;
 
-        while (right < n) {
-            if (charSet.find(s[right]) == charSet.end()) {
-                charSet.insert(s[right]);
-                maxLength = std::max(maxLength, right - left + 1);
-                right++;
+        while (post < n) {
+            if (charSet.find(s[post]) == charSet.end()) {
+                charSet.insert(s[post]);
+                maxLength = std::max(maxLength, post - pre + 1);
+                post++;
             } else {
-                charSet.erase(s[left]);
-                left++;
+                charSet.erase(s[pre]);
+                pre++;
             }
         }
 
