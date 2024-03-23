@@ -1,20 +1,30 @@
 <img src="https://rand-xyz.now.sh/api/hello">
 
-# Competitive Coding Interview Problems 
+## Steps to Get Started with Contributing
 
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=30&width=950&height=70&lines=End-your-hunt-for-well-organised-LeetCode-solutions-here"/>
-   <img src="https://rand-xyz.now.sh/api/hello">
-</p>
+1. **Fork this repository**: 🍴 Fork this repository. Don't change the name of the repository while forking it to avoid confusion.
 
-<img align="left" src="https://github.com/devfinwiz/devfinwiz/raw/main/AVATAR.PNG" width="276">
-<h2> Hello 🙋‍♂️, I'm <a href='https://github.com/devfinwiz'>Dev</a> <img align="right" src="https://gpvc.arturio.dev/devfinwiz"></h2>
+2. **Add LeetSync extension to Chrome**: 🛠️ [Install LeetSync extension](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd) in Chrome.
 
-<p align='justify'>
-Ace your coding interviews with well organised Leetcode problem solutions with this repository! The repository keeps growing with each day passing as the repository owner himself is trying to ace coding interviews yet.😛
-<br><br>Feel free to drop a <b>✰</b> as a bookmark if you find this helpful.
-<br></br><br>
-<img align="right" src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge" href="!#">
-</p>
+3. **Open LeetSync extension**: 🌐 Open the LeetSync extension you just added in step 2.
+
+4. **Complete Setup**: ✔️ Click on 'Complete Setup', then 'Login with GitHub', and finally 'Authorize' to authenticate LeetSync with your GitHub account.
+
+5. **Re-open LeetSync extension**: 🔄 Re-open the LeetSync extension window.
+
+6. **Copy Repository URL**: 📋 Copy the URL of the forked repository (the one visible on your profile) and paste it into the LeetSync extension window.
+
+7. **Ready to go!**: 🚀 You are now set up and ready to contribute!
+
+8. **Solve Leetcode Problems**: 💡 Open LeetCode, select a problem, solve it, hit submit, and wait for 5 seconds upon successful submission before moving on to the next problem.
+
+9. **Commit to Forked Repository**: 💾 The problem you just solved will be committed to your forked repository automatically.
+
+10. **Raise Pull Request**: 🎉 Click on 'Contribute' from the forked repository and raise a pull request with the LeetCode problem number as the title of the pull request.
+
+Follow these steps to seamlessly contribute to this repository using LeetSync! Happy coding! 😊
+
+
+   
 
 
