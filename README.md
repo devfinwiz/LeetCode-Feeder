@@ -1,6 +1,4 @@
-<img src="https://rand-xyz.now.sh/api/hello">
-
-## Steps to Get Started with Contributing
+# Steps to Get Started with Contributing
 
 1. **Fork this repository**: 🍴 Fork this repository. Don't change the name of the repository while forking it to avoid confusion.
 
@@ -25,6 +23,11 @@
 Follow these steps to seamlessly contribute to this repository using LeetSync! Happy coding! 😊
 
 
-   
-
-
+# Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0165-compare-version-numbers) |
+# String
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0165-compare-version-numbers) |
