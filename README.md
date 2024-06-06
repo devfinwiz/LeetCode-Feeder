@@ -31,3 +31,27 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0165-compare-version-numbers) |
+# Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0198-house-robber) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0198-house-robber) |
+# Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
+# Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
+# Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
