@@ -35,6 +35,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -47,11 +48,21 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
 # Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
+# Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
+# Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
