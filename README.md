@@ -27,6 +27,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0202-happy-number) |
 # String
 |  |
 | ------- |
@@ -70,3 +71,11 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0201-bitwise-and-of-numbers-range) |
+# Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0202-happy-number) |
+# Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0202-happy-number) |
