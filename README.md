@@ -32,6 +32,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0205-isomorphic-strings) |
 # Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0205-isomorphic-strings) |
 # Math
 |  |
 | ------- |
