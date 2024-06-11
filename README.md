@@ -37,6 +37,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 | ------- |
 | [0198-house-robber](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0204-count-primes) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0204-count-primes) |
 # Linked List
 |  |
 | ------- |
@@ -87,3 +89,11 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0203-remove-linked-list-elements) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0204-count-primes) |
