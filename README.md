@@ -87,10 +87,12 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0206-reverse-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0206-reverse-linked-list) |
 # Enumeration
 |  |
 | ------- |
