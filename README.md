@@ -26,6 +26,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 # Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0202-happy-number) |
 # String
@@ -37,12 +38,14 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0204-count-primes) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0198-house-robber) |
 # Tree
 |  |
@@ -103,3 +106,11 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0204-count-primes) |
+# Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0042-trapping-rain-water) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0042-trapping-rain-water) |
