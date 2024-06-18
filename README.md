@@ -36,6 +36,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 # Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0041-first-missing-positive) |
 | [0198-house-robber](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0204-count-primes) |
@@ -76,6 +77,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 # Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0205-isomorphic-strings) |
 # Math
