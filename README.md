@@ -39,6 +39,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 | ------- |
 | [0041-first-missing-positive](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0042-trapping-rain-water) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0204-count-primes) |
@@ -119,3 +120,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0042-trapping-rain-water) |
+# Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0153-find-minimum-in-rotated-sorted-array) |
