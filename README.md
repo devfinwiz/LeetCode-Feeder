@@ -50,10 +50,12 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 # Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
 # Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0200-number-of-islands) |
 # Breadth-First Search
@@ -64,6 +66,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 # Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0199-binary-tree-right-side-view) |
 # Union Find
 |  |
@@ -91,6 +94,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 # Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0206-reverse-linked-list) |
 # Recursion
@@ -110,6 +114,7 @@ Follow these steps to seamlessly contribute to this repository using LeetSync! H
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0114-flatten-binary-tree-to-linked-list) |
 # Monotonic Stack
 |  |
 | ------- |
