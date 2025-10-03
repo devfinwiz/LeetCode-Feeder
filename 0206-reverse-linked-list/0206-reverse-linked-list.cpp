@@ -1,5 +1,5 @@
 
-class Solution {
+class Solution { //using while lop 
 public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
