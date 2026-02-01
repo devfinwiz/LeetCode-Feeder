@@ -26,7 +26,7 @@ class RideSharingSystem {
         return match;
     }
     public void cancelRider(int riderId) {
-        if(riderMap.containsKey(riderId)){
+        if(rider.contains(riderId)){
             rider.remove(Integer.valueOf(riderId));
         }
     }
