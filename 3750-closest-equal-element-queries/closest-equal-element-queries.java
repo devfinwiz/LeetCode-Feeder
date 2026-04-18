@@ -2,14 +2,14 @@ class Solution {
     public List<Integer> solveQueries(int[] nums, int[] queries) {
         List<Integer> ans = new ArrayList<>();
         HashMap<Integer, List<Integer>> map = new HashMap<>();
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
+        int n=nums.length;
+        for (int i=0;i<n;i++){
             map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
         }
-        for (int q : queries) {
-            int num = nums[q];
-            List<Integer> list = map.get(num);
-            if (list.size() == 1) {
+        for(int q:queries){
+            int num=nums[q];
+            List<Integer> list=map.get(num);
+            if(list.size()==1){
                 ans.add(-1);
                 continue;
             }
